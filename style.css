@@ -80,6 +80,7 @@ p {
     font-weight: 400; 
     margin-top: auto; 
     margin-bottom: auto;
+    font-optical-sizing: auto;
 }
 
 ol{
@@ -103,16 +104,19 @@ ul {
 .Image1{ 
     width: 300px; 
     border: 5px solid rgb(28, 106, 72); 
+    display:-moz-grid-line;
 
 }
 .Image2{
     width: 300px;
     border: 5px solid rgb(148, 33, 56); 
+    display:-moz-grid-line;
 
 }
 .Image3 {
     width: 300px; 
     border: 5px solid rgb(57, 48, 137);
+    display:-moz-grid-line;
 }
 
 
