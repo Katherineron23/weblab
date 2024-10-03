@@ -1,0 +1,122 @@
+body{
+    background-color: rgb(170, 101, 165);
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+header{
+    background-color: rgb(114, 68, 241) (114, 71, 106);
+    background-image: url("https://katherineron23.github.io/weblab/297840d2-1c95-4b35-a498-51b9c432d6a0.jpg");
+    background-size: contain;
+    width: 960px;
+    height: 200px;
+    padding:20px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:-8px;
+    margin-bottom: 50px; 
+  
+}
+a{
+    text-decoration: none;
+}
+main{
+    background-color: brown;
+   
+    width: 960px;
+    height: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-width: 5px;
+    border-color: : violet ;
+    border-style: dotted; 
+    margin: 0 auto; /* set top and bottom to 0 and left and right to auto*/
+    margin-bottom: 50px;
+  
+
+
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 400px;
+    padding: 20px;
+    margin: 0 auto;
+}
+nav a{
+    font: size 20px;
+    color: blue;
+    margin-right: 300px ;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+
+.leftnav{
+    margin-right: 200px;
+}
+footer{
+    background-color: rgb(222, 142, 38);
+    width: 970px;
+    height: auto;
+    padding: 20px 20px 20px 20px; /*top bottom left and right*/
+    border-top-width: 10px;
+    border-top-color: pink;
+    border-top-style: groove;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    
+   
+}
+h1{
+    background-color: palegoldenrod;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+p{
+    color: rgb(238, 238, 238);
+    line-height:30px;
+    font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+}
+h1{
+    background-color:rgb(105, 192, 134);
+
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    text-align: right;
+    color:rgb(61, 159, 184);
+    font-family: Arial, Helvetica, sans-serif;
+}
+ol{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+ul{
+    font-size: larger;
+}
+h3{
+    margin-left: 200;
+    margin-right: 200;
+}
+.Image1{
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+
+.Image2{
+    width:200px;
+    border-style: solid;
+    border-color: aliceblue;
+    border-width:10px 10px 50px 10px; /* top right bottom left*?/
+}
