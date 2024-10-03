@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style.css">
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
 
@@ -9,6 +9,7 @@ body {
     padding: 0;
     text-align: center; 
     color: #ffffff; 
+    
 }
 
 
@@ -38,6 +39,7 @@ nav a {
 
 nav a:hover {
     color: rgb(255, 255, 255); 
+    box-shadow: 10px 5px 5px rgb(254, 254, 254);
 }
 
 main {
@@ -46,7 +48,6 @@ main {
     margin: 0 auto; 
     padding: 20px; 
     border: 5px dotted rgb(141, 32, 141); 
-    box-shadow: 0 0 10px rgba(191, 6, 233, 0.1); 
 }
 
 h1 {
@@ -81,6 +82,7 @@ p {
     margin-top: auto; 
     margin-bottom: auto;
     font-optical-sizing: auto;
+    
 }
 
 ol{
@@ -104,19 +106,19 @@ ul {
 .Image1{ 
     width: 300px; 
     border: 5px solid rgb(28, 106, 72); 
-    display:-moz-grid-line;
+
 
 }
 .Image2{
     width: 300px;
     border: 5px solid rgb(148, 33, 56); 
-    display:-moz-grid-line;
+    
 
 }
 .Image3 {
     width: 300px; 
     border: 5px solid rgb(57, 48, 137);
-    display:-moz-grid-line;
+  
 }
 
 
