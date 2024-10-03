@@ -1,6 +1,7 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 body {
-    background-color: #f4f4f9;
+    background-color: #dfdffc;
     font-family: 'Roboto Mono', monospace; 
     margin:0;
     padding: 0;
@@ -10,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #70609a; 
+    background-color: #8a78b4; 
     padding: 250px; 
     color: white; 
     border-bottom: 10px solid #ea9393; 
@@ -77,7 +78,7 @@ p {
     font-weight: 400; 
     margin-top: auto; 
     margin-bottom: auto;
-    font-optical-sizing: auto;
+   
     
 }
 
