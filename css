@@ -1,0 +1,129 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+body {
+    background-color: #f4f4f9;
+    font-family: 'Roboto Mono', monospace; 
+    margin:0;
+    padding: 0;
+    text-align: center; 
+    color: #ffffff; 
+}
+
+
+header {
+    background-color: #70609a; 
+    padding: 250px; 
+    color: white; 
+    border-bottom: 10px solid #ea9393; 
+    background-image: url(https://katherineron23.github.io/weblab/florence%201.jpg);
+    background-size: contain; 
+    text-align: center; 
+}
+
+nav {
+    padding-top: 10px;  
+    width: 320px; 
+    margin-top: -80px;
+}
+
+nav a {
+    font-size: 20px; 
+    color: rgb(0, 255, 94); 
+    margin-right: 20px; 
+    font-family: bold;
+    text-decoration: none; 
+}
+
+nav a:hover {
+    color: rgb(255, 255, 255); 
+}
+
+main {
+    background-color: rgba(255, 254, 254, 0.55); 
+    width: 1000px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    border: 5px dotted rgb(141, 32, 141); 
+    box-shadow: 0 0 10px rgba(191, 6, 233, 0.1); 
+}
+
+h1 {
+    font-family: serif;
+    font-size: xx-large;
+    width: 400px; 
+    padding: 20px; 
+    margin: 0 auto; 
+    color: #000; 
+}
+
+h2 {
+    text-align: center; 
+    color: #4f44f1; 
+}
+
+h3{
+    color: #4f44f1; 
+    text-align: left;
+    font-family: cursive;
+}
+
+h4{
+    color: #000;
+    font-size: xx-large;
+    font-family: cursive;
+}
+
+p {
+    color: #383838;
+    font-weight: 400; 
+    margin-top: auto; 
+    margin-bottom: auto;
+    font-optical-sizing: auto;
+}
+
+ol{
+    text-align: left; 
+    color: #383838;
+      margin-bottom: 20px
+}
+
+ul {
+    text-align: left; 
+    color: #383838;
+    margin-bottom: 20px
+} 
+
+.p1 {
+    padding: 100px; 
+    background-color: rgba(255, 255, 255, 0.75); 
+    font-family: 'Roboto Mono', monospace;  
+}
+
+.Image1{ 
+    width: 300px; 
+    border: 5px solid rgb(28, 106, 72); 
+    display:-moz-grid-line;
+
+}
+.Image2{
+    width: 300px;
+    border: 5px solid rgb(148, 33, 56); 
+    display:-moz-grid-line;
+
+}
+.Image3 {
+    width: 300px; 
+    border: 5px solid rgb(57, 48, 137);
+    display:-moz-grid-line;
+}
+
+
+footer {
+    background-color: #c58700; 
+    padding: 20px; 
+    text-align: center; 
+    border-top: 10px outset pink; 
+    font-size: 14px; 
+}
